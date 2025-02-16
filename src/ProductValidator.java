@@ -24,4 +24,4 @@ public class ProductValidator {
     // araç olarak kullanacaklarında static oluştur
     // uygulama sıfırlanana kadar bellekten atılmaz tüm kullanıcılar aynı nesneyi kullanır
 
-}
+
